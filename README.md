@@ -10,5 +10,5 @@ Multi-Object Tracking (DADA-Track)
  PETR      | DADA-Track|0.562      | 0.931     | 0.509     | 0.618     | 391 
 
  # 2 Qualitative Result
- ![Uploading visualization.png…]()
+ ![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/mjq-520/DADA-Track/blob/main/visualization/visualization.png))
 
