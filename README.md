@@ -3,8 +3,7 @@
 Multi-Object Tracking (DADA-Track)
  ===
  
-# 1 Quantitative Results
-## 1.1 on nuScenes val set
+# 1 Quantitative Results (on nuScenes val set)
  Detector  | Method    | AMOTA↑    | AMOTP↓    | MOTA↑     | Recall↑   | IDS↓
 ---------- |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:
  DETR3D    | DADA-Track|0.509      | 1.063     | 0.486     | 0.568     | 432 
